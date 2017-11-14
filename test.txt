@@ -1,2 +1,1 @@
 To jest plik testowy. 
-Test 1. 
